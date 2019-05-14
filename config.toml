@@ -267,32 +267,32 @@ enableGitInfo = false
 [[menu.main]]
   name = "Posts"
   url = "#posts"
-  weight = 2
+  weight = 6
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 3
+  weight = 5
   
 [[menu.main]]
   name = "Tutoring"
   url = "#tutoring"
-  weight = 4
+  weight = 2
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 6
+  weight = 7
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 3
 
 # Taxonomies.
 [taxonomies]
