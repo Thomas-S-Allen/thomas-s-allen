@@ -11,13 +11,39 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Spitzer Imaging of the nearby Rich Young Cluster, Cep OB3b</title>
+      <link>/publication/cep_irac/</link>
+      <pubDate>Sat, 28 Apr 2012 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/cep_irac/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Correlation between Surface Densities of Young Stellar Objects and Gas in Eight Nearby Molecular Clouds</title>
+      <link>/publication/surface_density/</link>
+      <pubDate>Fri, 28 Oct 2011 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/surface_density/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detection of Star Formation in the Unusually Cold Giant Molecular Cloud G216-2.5</title>
+      <link>/publication/maddalena/</link>
+      <pubDate>Sat, 28 Mar 2009 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/maddalena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Spitzer, Near-Infrared, and Submillimeter Imaging of the Relatively Sparse Young Cluster, Lynds 988e</title>
       <link>/publication/l988e/</link>
-      <pubDate>Wed, 28 May 2008 00:00:00 -0700</pubDate>
+      <pubDate>Fri, 28 Mar 2008 00:00:00 -0700</pubDate>
       
       <guid>/publication/l988e/</guid>
-      <description>&lt;p&gt;#More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <description></description>
     </item>
     
   </channel>
