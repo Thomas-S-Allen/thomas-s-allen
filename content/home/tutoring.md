@@ -9,6 +9,6 @@ I am an experienced tutor in high school and college quantitative subjects.  The
   * College calculus
   * SAT Math
   
-
+Contact me if you are interested in tutoring.
 
 
