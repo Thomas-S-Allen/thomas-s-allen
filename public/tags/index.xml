@@ -21,5 +21,32 @@
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Tue, 12 Jun 2018 09:17:19 -0800</pubDate>
+      
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible Research</title>
+      <link>/tags/reproducible-research/</link>
+      <pubDate>Tue, 12 Jun 2018 09:17:19 -0800</pubDate>
+      
+      <guid>/tags/reproducible-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Template</title>
+      <link>/tags/template/</link>
+      <pubDate>Tue, 12 Jun 2018 09:17:19 -0800</pubDate>
+      
+      <guid>/tags/template/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

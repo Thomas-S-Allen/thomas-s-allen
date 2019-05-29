@@ -5,6 +5,33 @@
     
     <url>
     
+      <loc>/post/2018-06-26-portland-data/</loc>
+      <lastmod>2018-06-26T09:17:19-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/2018-06-12-reproducible-research/</loc>
+      <lastmod>2018-06-12T09:17:19-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/post/template/</loc>
+      <lastmod>2018-06-12T09:17:19-08:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
@@ -50,7 +77,67 @@
     
     <url>
     
+      <loc>/categories/data-sets/</loc>
+      <lastmod>2018-06-26T09:17:19-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/portland-data/</loc>
+      <lastmod>2018-06-26T09:17:19-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/r/</loc>
+      <lastmod>2018-06-12T09:17:19-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/r-markdown/</loc>
+      <lastmod>2018-06-12T09:17:19-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/reproducible-research/</loc>
+      <lastmod>2018-06-12T09:17:19-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/categories/reproducible-research/</loc>
+      <lastmod>2018-06-12T09:17:19-08:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -61,6 +148,16 @@
     
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/template/</loc>
+      <lastmod>2018-06-12T09:17:19-08:00</lastmod>
       <priority>0</priority>
     </url>
     
