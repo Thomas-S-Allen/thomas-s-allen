@@ -12,7 +12,8 @@ weight = 5
   interests = [
     "Data Science",
     "Statistics",
-    "Astronomy"
+    "Astronomy",
+    "Education"
   ]
 
 # List your qualifications (such as academic degrees).
