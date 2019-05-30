@@ -11,20 +11,29 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Spitzer View of the Giant Molecular Cloud MON OB1 EAST/NGC 2264</title>
-      <link>/publication/allen_2017/</link>
-      <pubDate>Mon, 28 Apr 2014 00:00:00 -0700</pubDate>
+      <title>The Dynamics, Structure, and Fate of a Young Cluster during Gas Dispersal: Hectoschelle, Chandra, Spitzer, and Gaia Observations of Cep OB3b</title>
+      <link>/publication/karnath_2019/</link>
+      <pubDate>Mon, 28 Jan 2019 00:00:00 -0800</pubDate>
       
-      <guid>/publication/allen_2017/</guid>
+      <guid>/publication/karnath_2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Spitzer View of the Giant Molecular Cloud MON OB1 EAST/NGC 2264</title>
       <link>/publication/rapson_2014/</link>
-      <pubDate>Mon, 28 Apr 2014 00:00:00 -0700</pubDate>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 -0700</pubDate>
       
       <guid>/publication/rapson_2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Properties of the Closest Young Binaries. I. DF Tau’s Unequal Circumstellar Disk Evolution</title>
+      <link>/publication/allen_2017/</link>
+      <pubDate>Mon, 28 Aug 2017 00:00:00 -0700</pubDate>
+      
+      <guid>/publication/allen_2017/</guid>
       <description></description>
     </item>
     
