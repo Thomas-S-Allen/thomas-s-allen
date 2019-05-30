@@ -36,7 +36,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = "pdf/Allen_2017.pdf"
+url_pdf = "pdf/Allen_2019.pdf"
 #url_preprint = "#"
 #url_code = "#"
 #url_dataset = "#"
@@ -48,7 +48,7 @@ url_pdf = "pdf/Allen_2017.pdf"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-#url_custom = [{name = "*TpT*", url = "https://aapt.scitation.org/doi/full/10.1119/1.5092466"}]
+#url_custom = [{name = "TpT", url = "https://aapt.scitation.org/doi/full/10.1119/1.5092466"}]
 
 # Does the content use math formatting?
 math = true
