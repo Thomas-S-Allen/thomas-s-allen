@@ -1,6 +1,6 @@
 +++
 title = "A Spitzer View of the Giant Molecular Cloud MON OB1 EAST/NGC 2264"
-date = 2017-08-28T00:00:00
+date = 2014-10-28T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Rapson, V.A.", "Pipher, J.L.", "Gutermuth, R.A.", "Megeath, S.T.", "**Allen, T.S**", "Myers, P.C.",   "Allen, L.E."]
