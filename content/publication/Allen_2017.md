@@ -3,7 +3,7 @@ title = "Properties of the Closest Young Binaries. I. DF Tau’s Unequal Circums
 date = 2017-08-28T00:00:00
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["**Allen, T.S**", "Prato, L.", "Wright-Garba, N.", "Schaefer, G.", "Biddle, L.I.", , "Skiff, B.",   "Avilez, I.", "Muzzio, R.", "Simon, M."]
+authors = ["**Allen, T.S**", "Prato, L.", "Wright-Garba, N.", "Schaefer, G.", "Biddle, L.I.", "Skiff, B.",   "Avilez, I.", "Muzzio, R.", "Simon, M."]
 
 # Publication type.
 # Legend:
