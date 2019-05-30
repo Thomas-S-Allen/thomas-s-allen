@@ -14,7 +14,25 @@
     
     <url>
     
-      <loc>/publication/luminosity/</loc>
+      <loc>/publication/rapson_2014/</loc>
+      <lastmod>2014-04-28T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/allen_2014/</loc>
+      <lastmod>2014-04-28T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/kryukova_2012/</loc>
       <lastmod>2012-08-28T00:00:00-07:00</lastmod>
     </url>
     
@@ -23,7 +41,7 @@
     
     <url>
     
-      <loc>/publication/cep_irac/</loc>
+      <loc>/publication/allen_2012/</loc>
       <lastmod>2012-04-28T00:00:00-07:00</lastmod>
     </url>
     
@@ -32,7 +50,7 @@
     
     <url>
     
-      <loc>/publication/surface_density/</loc>
+      <loc>/publication/gutermuth_2011/</loc>
       <lastmod>2011-10-28T00:00:00-07:00</lastmod>
     </url>
     
@@ -41,7 +59,7 @@
     
     <url>
     
-      <loc>/publication/maddalena/</loc>
+      <loc>/publication/megeath_2009/</loc>
       <lastmod>2009-03-28T00:00:00-07:00</lastmod>
     </url>
     
@@ -50,7 +68,7 @@
     
     <url>
     
-      <loc>/publication/l988e/</loc>
+      <loc>/publication/allen_2008/</loc>
       <lastmod>2008-03-28T00:00:00-07:00</lastmod>
     </url>
     
@@ -60,7 +78,7 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2012-08-28T00:00:00-07:00</lastmod>
+      <lastmod>2014-04-28T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -79,7 +97,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2012-08-28T00:00:00-07:00</lastmod>
+      <lastmod>2014-04-28T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -89,7 +107,7 @@
     <url>
     
       <loc>/publication/</loc>
-      <lastmod>2012-08-28T00:00:00-07:00</lastmod>
+      <lastmod>2014-04-28T00:00:00-07:00</lastmod>
       <priority>0</priority>
     </url>
     
